@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://motors.local
+Data file = D:\motor-dealer/wp-content/themes/carlistings/demos/content.xml
+Widget file = D:\motor-dealer/wp-content/themes/carlistings/demos/widgets.wie
+Customizer file = D:\motor-dealer/wp-content/themes/carlistings/demos/theme-options.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Auto Listings : 
+
+Văn bản - I&#039;m looking for - Widget already exists
+Văn bản - Sidebar Listings - Widget already exists
+
+Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Văn bản - About Auto Listings - Widget already exists
+jetpack_widget_social_icons - Social Media - Site does not support widget
+Chuyên mục - No Title - Widget already exists
+jr_insta_slider - Instagram Slider - Site does not support widget
+Mây Thẻ - No Title - Widget already exists
+Ảnh - No Title - Widget already exists
+twitter_timeline - Twitter Feed - Site does not support widget
+Văn bản - About Auto Listings - Widget already exists
+
+Topbar Contact : 
+
+Carlistings: Contact Info - No Title - Widget already exists
+
+Topbar Languages : 
+
+HTML Tùy chỉnh - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
