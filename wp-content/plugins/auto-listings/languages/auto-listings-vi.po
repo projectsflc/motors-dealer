@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Auto Listings\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-24 16:48+0000\n"
-"PO-Revision-Date: 2019-04-10 12:59+0000\n"
+"PO-Revision-Date: 2019-04-10 14:15+0000\n"
 "Last-Translator: admin <truphuthinh@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Tiếng Việt\n"
 "Language: vi\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
@@ -300,11 +300,11 @@ msgstr ""
 #: src/Listing/AdminColumns.php:54 src/Admin/settings/04-listing-setup.php:15
 #: src/Listing/fields/02-details.php:57
 msgid "Condition"
-msgstr ""
+msgstr "Điều kiện"
 
 #: src/SearchForm.php:263
 msgid "condition"
-msgstr ""
+msgstr "điều kiện"
 
 #: src/Enquiry/fields/02-contact.php:72
 msgid "Contact"
@@ -872,11 +872,11 @@ msgstr ""
 
 #: src/functions-listing.php:25 src/SearchForm.php:224
 msgid "Make"
-msgstr ""
+msgstr "Hãng"
 
 #: src/Listing/fields/01-select.php:35
 msgid "Makes"
-msgstr ""
+msgstr "Hãng"
 
 #: src/Listing/fields/06-settings.php:42
 msgid "Map"
@@ -956,7 +956,7 @@ msgstr ""
 
 #: templates/loop/bottom.php:17
 msgid "More Details"
-msgstr ""
+msgstr "Xem chi tiết"
 
 #: src/SearchForm.php:65
 msgid "More Refinements"
@@ -1597,11 +1597,11 @@ msgstr ""
 
 #: src/functions-listing.php:20 src/SearchForm.php:204
 msgid "Year"
-msgstr ""
+msgstr "Năm"
 
 #: src/Listing/fields/01-select.php:26
 msgid "Years"
-msgstr ""
+msgstr "Năm"
 
 #: src/Admin/settings/11-contact-messages.php:34
 #: src/Admin/settings/12-advanced-themes.php:40

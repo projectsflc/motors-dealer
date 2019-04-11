@@ -20,16 +20,16 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define('DB_NAME', 'motors');
+define('DB_NAME', 'R3nWVVKHEt');
 
 /** Username của database */
-define('DB_USER', 'root');
+define('DB_USER', 'R3nWVVKHEt');
 
 /** Mật khẩu của database */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'y8NTRvYzvV');
 
 /** Hostname của database */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'remotemysql.com');
 
 /** Database charset sử dụng để tạo bảng database. */
 define('DB_CHARSET', 'utf8mb4');
